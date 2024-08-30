@@ -1,4 +1,4 @@
-##  this is spring boot crud opration project  ##
+##  this is spring boot crud opration project  
 
 ![Screenshot (91)](https://github.com/user-attachments/assets/5b637f7b-6771-4302-a5fc-a98b5ae60b1c)
 ![Screenshot (90)](https://github.com/user-attachments/assets/16c36c01-2fe4-44e9-9f1f-3150a70bd8d6)
